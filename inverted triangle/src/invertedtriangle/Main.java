@@ -2,7 +2,7 @@ package invertedtriangle;
 import java.util.Scanner;
 
 public class Main {
-
+//Java ile basamak sayısının kullanıcıdan alınan ve döngüler kullanılarak, yıldızlar(*) ile ekrana ters üçgen çizen program
 	public static void main(String[] args) {
 		Scanner input=new Scanner(System.in);
 		int n=input.nextInt();
